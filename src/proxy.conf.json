@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://0959d989713d086a06ce7fd15f2cfec7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@039337-2.myshopify.com/admin/api/2023-10/products.json",
+    "secure": false
+  }
+}
